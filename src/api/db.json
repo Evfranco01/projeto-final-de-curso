@@ -1,0 +1,17 @@
+{
+  "cadastro": [
+    {
+      "id": 3,
+      "nome": "david",
+      "Telefone": "123443677",
+      "email": "oi@oi.com"
+    },
+    {
+      "nome": "everth",
+      "Telefone": "11991301051",
+      "email": "chiqts22@gmail.com",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
